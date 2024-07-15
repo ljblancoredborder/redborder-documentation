@@ -58,7 +58,7 @@ Si no está seguro sobre la configuración actual, puede cancelar con la opción
 
 #### Normalización del nombre de las interfaces
 
-![Normalización del nombre de las interfaces](ch01_interface_naming_warn.png)
+![Normalización del nombre de las interfaces](images/ch01_interface_naming_warn.png)
 
 Normalización del nombre de las interfaces
 
@@ -93,19 +93,6 @@ El asistente de instalación nos dará la opción de elegir si quieremos configu
 ![Configuración de DNS](images/ch02_img004.png)
 
 Configuración de DNS
-
-<details>
-<summary> PASO OMITIDO COLAPSADO </summary>
-### Selección de la interfaz de administración
-Se nos pedirá que seleccionamos una de las interfaces como interfaz de administración. Mientras que la interfaz de administración servirá para conectarse con otras máquinas de redborder o con equipos de administración, el resto de interfaces se ocuparán de leer y trasmitir tráfico.
-
-!!! info "Recomendación"
-    Se recomienda utilizar la eth0 como interfaz de administración, y así queda claro qué la primera es la interfaz de administración
-
-![Selección de la interfaz de administración](images/ch01_select_management_interface.png)
-
-Selección de la interfaz de administración
-</details>
 
 ### Configuración de segmentos
 
